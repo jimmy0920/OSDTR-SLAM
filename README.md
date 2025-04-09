@@ -4,4 +4,5 @@ Neural implicit SLAM combines traditional SLAM image tracking technology with Ne
 
 ![](https://github.com/jimmy0920/OSDTR-SLAM/blob/main/framework.jpg)
 
+Under review <br>
 Coming soon...
